@@ -12,4 +12,4 @@ Num2 - Set type to Stone
 Num3 - Set type to Water  
 
 ( Bugged animation probably caused by drawing single pixels )   
-![Animation](https://github.com/SlawekSt/SandSimulation/blob/main/Animation.gif)
+![Animation](https://github.com/SlawoStr/SandSimulation/blob/master/Animation.gif)
